@@ -31,5 +31,6 @@ public class TotalCount {
 
         int n  = totalCount(k,arr);
         System.out.println(n);
+
     }
 }
